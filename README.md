@@ -19,17 +19,16 @@
 
 ###
 
-
-#### 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=tahirainam&theme=dark&hide_border=false)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=tahirainam&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+</div>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tahirainam/tahirainam/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tahirainam/tahirainam/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tahirainam/tahirainam/output/github-snake.svg" />
+</picture>
+</div>
