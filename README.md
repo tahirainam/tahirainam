@@ -9,8 +9,16 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tahirainam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-#### Languages & Tools  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahirainam&layout=compact&theme=tokyonight)
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tahirainam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahirainam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 
 #### 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=tahirainam&theme=dark&hide_border=false)
