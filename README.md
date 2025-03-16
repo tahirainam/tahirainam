@@ -1,6 +1,6 @@
 ### Hi, I'm Tahira Inam 👋  
 
-- 🚀 Exploring Software Engineering, Robotics, and Computational Astrophysics  
+- 🚀 Exploring Software Engineering, Robotics, and web development
 - ✨ Blogging at [SE Docs](#) | Building cool projects  
 
 #### Languages & Tools  
