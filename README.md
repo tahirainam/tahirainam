@@ -1,7 +1,7 @@
 ## Hi, I'm [Tahira Inam](https://www.linkedin.com/in/tahirainam)
 
 Software Engineering student with a background in front-end and learning back-end and AI.  
-Currently exploring machine learning with Python through small projects.
+Currently exploring machine learning with Python through small projects and focusing on my Research Paper.
 
 Beyond tech, I’m also drawn to [art](https://pin.it/4trNM78BJ), and [writing](https://medium.com/@tahayrah-enaam).<!--, and space(orrrrrrr should i write Astrophysics, thinking.....).-->
 
