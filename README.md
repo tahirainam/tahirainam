@@ -1,6 +1,6 @@
 ## Hi, I'm <span title="secretly Batman"> [Tahira Inam](https://tahira-khaki.vercel.app/) </span>
 
-I'm a Software Engineering student with blah blah blahhhhh...... <!--a background in front-end and learning back-end and AI.  
+I'm a Software Engineering student with interests in blah blah blahhhhh...... <!--a background in front-end and learning back-end and AI.  
 Currently exploring machine learning with Python through small projects and focusing on my Research Paper.
 -->
 
