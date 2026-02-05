@@ -1,7 +1,9 @@
 ## Hi, I'm [Tahira Inam](https://tahira-khaki.vercel.app/)
 
-I'm a Software Engineering student with a background in front-end and learning back-end and AI.  
+I'm a Software Engineering student with blah blah blah blah blahhhhh...... <!--a background in front-end and learning back-end and AI.  
 Currently exploring machine learning with Python through small projects and focusing on my Research Paper.
+-->
+
 
 Beyond tech, I’m also drawn to [art](https://www.instagram.com/tahayrah.enaam), and [writing](https://medium.com/@tahirainam).<!--, and space(orrrrrrr should i write Astrophysics, thinking.....).-->
 <!-- beyond this i study astrophysics, ethical hacking robotics (arduino) build some fun projects, make art and watch sci-fi -->
