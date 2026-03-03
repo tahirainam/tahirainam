@@ -1,10 +1,9 @@
 ## I'm <span title="secretly Batman"> [Tahira Inam](https://tahira-khaki.vercel.app/) </span> <img src="https://github.com/user-attachments/assets/1babcb6b-7000-4ecd-8e61-7ee808787a24" width="30">
 
+Hi. I'm a Software Engineering student with a background in front-end and learning back-end and AI. I care about writing clean, logical code and understanding how things work beneath the surface.
+<!-- I build things and I like understanding how they actually work, not just making them run.<br-->
 
-I'm a Software Engineering student with interests in blah blah blahhhhh...... <!--a background in front-end and learning back-end and AI.  
-Currently exploring machine learning with Python through small projects and focusing on my Research Paper.
--->
-
+Currently i'm turning random ideas into real projects.
 
 Beyond tech, I’m also drawn to [art](https://www.instagram.com/tahayrah.enaam), and [writing](https://medium.com/@tahirainam).<!--, and space(orrrrrrr should i write Astrophysics, thinking.....).-->
 <!-- beyond this i study astrophysics, ethical hacking robotics (arduino) build some fun projects, make art and watch sci-fi -->
