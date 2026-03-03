@@ -1,4 +1,5 @@
-## Hi, I'm <span title="secretly Batman"> [Tahira Inam](https://tahira-khaki.vercel.app/) </span>
+## I'm <span title="secretly Batman"> [Tahira Inam](https://tahira-khaki.vercel.app/) </span> <img src="https://github.com/user-attachments/assets/1babcb6b-7000-4ecd-8e61-7ee808787a24" width="30">
+
 
 I'm a Software Engineering student with interests in blah blah blahhhhh...... <!--a background in front-end and learning back-end and AI.  
 Currently exploring machine learning with Python through small projects and focusing on my Research Paper.
