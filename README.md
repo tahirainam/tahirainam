@@ -2,7 +2,7 @@
 
 I'm <span title="secretly Batman"> [Tahira](https://tahira-khaki.vercel.app/)</span> a software engineer and an <span title=":')">artist</span> with a background in front-end and learning back-end and AI. I care about writing clean, logical code and understanding how things work beneath the surface. Currently i'm turning random ideas into real projects.
 <!-- I build things and I like understanding how they actually work, not just making them run.<br-->
-Beyond tech, I’m also drawn to [art](https://www.instagram.com/tahayrah.enaam), [writing](https://medium.com/@tahirainam), and yeah i'm pretty boring person on the earth, spend lot of my time doing my own things and playing board games.<!--, and space(orrrrrrr should i write Astrophysics, thinking.....).-->
+Beyond tech, I’m drawn to [art](https://www.instagram.com/tahayrah.enaam), <!-- as i have a habit to think think think so i write (link to substack) --> [writing](https://medium.com/@tahirainam), and yeah i'm pretty boring person on the earth, spend lot of my time doing my own things and playing board games.<!--, and space(orrrrrrr should i write Astrophysics, thinking.....).-->
 <!-- beyond this i study astrophysics, ethical hacking robotics (arduino) build some fun projects, make art and watch sci-fi -->
 
 <br>
